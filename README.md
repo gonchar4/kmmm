@@ -1,2 +1,2 @@
 # kmmm
-KMMM test
+KMMM test repository
